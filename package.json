@@ -1,5 +1,5 @@
 {
-  "name": "convert",
+  "name": "val-converter123",
   "version": "1.0.0",
   "description": "This is a libary which helps to convert everything that you can think",
   "main": "index.js",
@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/Divaynsh67/convert/issues"
   },
-  "homepage": "https://github.com/Divaynsh67/convert#readme"
+  "homepage": "https://github.com/Divaynsh67/convert#readme",
+  "dependencies": {}
 }
